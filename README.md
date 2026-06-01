@@ -1,6 +1,8 @@
 # AppForge ⚡
 
 An AI-powered web app generator using Groq + LLaMA 3.3 70B.
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/900ceaa0-7e3f-4668-957f-827d66d6e83b" />
+
 
 ## Setup
 
